@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jcarlosnpacheco
 - 👀 I’m interested in know about new techs
-- 🌱 I’m currently learning Angular, .Net Core and Spring Frameworks
+- 🌱 I’m software engineer Angular, .Net Core and Spring.
 - 📫 How to reach me? Just send-me a message: https://www.linkedin.com/in/jcnpacheco/
 
 
