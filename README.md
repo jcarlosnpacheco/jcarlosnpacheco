@@ -13,5 +13,4 @@
 
 - 📫 **How to reach me?**
     * **LinkedIn:** [www.linkedin.com/in/jcnpacheco](https://www.linkedin.com/in/jcnpacheco)
-    * **Email:** jcarlosnpacheco@gmail.com
     * **GitHub:** [github.com/jcarlosnpacheco](https://github.com/jcarlosnpacheco)
