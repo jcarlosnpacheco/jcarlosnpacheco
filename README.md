@@ -1,5 +1,5 @@
 - 👋 Hi, I an João Pacheco!
-- 
+  
 - 👨‍💻 I'm a Software Developer with some years of experience, focusing in C# and .NET for web and desktop applications. I also have experience with Angular for front-end development. I am passionate about clean code, SOLID principles, and Agile methodologies.
 
 - 📍 Currently based in Orlando, Florida, I am seeking a remote position to apply my technical skills and contribute to team success.
